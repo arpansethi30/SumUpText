@@ -1,0 +1,5 @@
+Template.py:
+    This script is a practical way to quickly set up the required structure for the project,
+    ensuring consistency across development environments and making it easier for new contributors 
+    to understand the project layout. It also demonstrates good practices in automated environment setup,
+    which can save time and reduce errors compared to manually creating each file and directory.
